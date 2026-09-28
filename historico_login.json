@@ -1,0 +1,17 @@
+[
+  {
+    "data_hora": "28/09/2026 19:52:34",
+    "usuario": "eu",
+    "evento": "Cadastro"
+  },
+  {
+    "data_hora": "28/09/2026 19:52:42",
+    "usuario": "eu",
+    "evento": "Login com sucesso"
+  },
+  {
+    "data_hora": "28/09/2026 19:59:38",
+    "usuario": "eu",
+    "evento": "Login com sucesso"
+  }
+]
